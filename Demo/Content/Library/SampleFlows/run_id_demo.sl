@@ -37,7 +37,7 @@ extensions:
         x: 108
         'y': 127
       sleep:
-        x: 393
+        x: 394
         'y': 151
       http_client_get:
         x: 662
